@@ -12,7 +12,9 @@ func InitDB() {
 	// Open 函数需要两个参数，一个是数据库名称，另一个是 dataSourceName
 	// 不建立数据库连接，仅验证参数是否有效
 	// 支持数据库连接池
-	db, _ = sql.Open("mysql", "root:root@tcp(127.0.0.1:3306)/blog")
+	if db == nil {
+		db, _ = sql.Open("mysql", "root:root@tcp(127.0.0.1:3306)/blog")
+	}
 
 	// 验证 dataSourceName 是否合法，验证数据库连接是否有效，必要时会创建数据库连接
 	err := db.Ping()
@@ -137,7 +139,7 @@ func Tx() {
 	// 4.影响行数
 	row, _ := result.RowsAffected()
 
-	result2, _ := stmt.Exec("java", 3)
+	result2, _ := stmt.Exec("java1", 6)
 	row2, _ := result2.RowsAffected()
 
 	if row > 0 && row2 > 0 {
