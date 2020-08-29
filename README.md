@@ -8,4 +8,4 @@
 7. Go 使用标准库 ioutil 包读写文件和操作文件夹
 8. Go 使用标准库 bufio 包在缓冲区读写文件
 8. Go 语言 goroutine调度器 GPM 模型
-9. Go 并发编程
+9. Go 使用标准库 sync 包操作 goroutine
