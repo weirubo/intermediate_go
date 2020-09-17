@@ -57,6 +57,9 @@ func main() {
 }
 
 // Command
+// Key
+
+// String
 // set
 func Set(key string, value interface{}, expiration time.Duration) (val string, err error) {
 	val, err = redisClient.Set(ctx, key, value, expiration).Result()
@@ -74,3 +77,11 @@ func Get(key string) (string, error) {
 	}
 	return val, nil
 }
+
+// List
+
+// Hash
+
+// Set
+
+// ZSet
