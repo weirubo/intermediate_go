@@ -215,12 +215,12 @@ func main() {
 	*/
 
 	// 多个处理器，使用 http 包的 Handle 函数绑定到 DefaultServeMux。
-	/**
-	为了使用多个处理器去处理不同的 URL，我们不再在 Serve 结构的 Handler 字段中指定处理器，而是让服务器使用默认多路复用器 DefaultServeMux，
-	然后通过 http.Handle 函数将处理器绑定到 DefaultServeMux。
+	/*
+		为了使用多个处理器去处理不同的 URL，我们不再在 Serve 结构的 Handler 字段中指定处理器，而是让服务器使用默认多路复用器 DefaultServeMux，
+		然后通过 http.Handle 函数将处理器绑定到 DefaultServeMux。
 
-	http 包的 Handle 函数实际上是 ServeMux 结构的方法，为了操作便利而创建的函数，调用它们等同于调用 DefaultServeMux 的某个方法。例如，调用
-	http.Handle，实际上就是在调用 DefaultServeMux 的 Handle 方法。
+		http 包的 Handle 函数实际上是 ServeMux 结构的方法，为了操作便利而创建的函数，调用它们等同于调用 DefaultServeMux 的某个方法。例如，调用
+		http.Handle，实际上就是在调用 DefaultServeMux 的 Handle 方法。
 	*/
 
 	// 自定义 Handler
@@ -292,6 +292,8 @@ func main() {
 
 	// 写入响应主体
 	// http.HandleFunc("/setVal", setVal)
+
+	// JSON
 
 	// 对首部写入
 	// http.HandleFunc("/setHeader", setHeader)
