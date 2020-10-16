@@ -14,5 +14,5 @@
 13. Go 使用标准库 math 包
 14. Go 使用标准库 sort 包
 15. Go 使用标准库 sync 包操作 goroutine
-16. Go 语言 goroutine调度器 GPM 模型
-17. Go 使用 channel 和 select 操作 goroutine
+16. Go 使用 channel 和 select 操作 goroutine
+17. Go 语言 goroutine调度器 GPM 模型
