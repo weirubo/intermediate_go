@@ -6,6 +6,8 @@
 5. [Go 使用标准库 net/http 包构建服务器](https://mp.weixin.qq.com/s/gsv3zW0HQaGMSxH9CtjiFA)
 6. [Go 使用标准库 net/rpc 包](https://mp.weixin.qq.com/s/IospmGnkC-y9ddJx_9JGzg)
 7. [Go 语言使用标准库 sync 包的 mutex 互斥锁解决数据静态](https://mp.weixin.qq.com/s/7JsdpF7sevArgh2SHS6cyg)
+8. [Golang 语言标准库 sync 包的 RWMutex 读写互斥锁怎么使用？](https://mp.weixin.qq.com/s/PGAtjh2gGmawfBB7Rgr0OA)
+9. [Golang语言标准库 sync 包的 WaitGroup 怎么使用？](https://mp.weixin.qq.com/s/6A9Lx99qkVx_sX_gIQxLYw)
 8. Go 使用标准库 os 包操作文件
 9. Go 使用标准库 io 包读写、拷贝和断点续传文件
 10. Go 使用标准库 ioutil 包读写文件和操作文件夹
