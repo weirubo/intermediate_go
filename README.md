@@ -9,7 +9,7 @@
 8. [Golang 语言标准库 sync 包的 RWMutex 读写互斥锁怎么使用？](https://mp.weixin.qq.com/s/PGAtjh2gGmawfBB7Rgr0OA)
 9. [Golang 语言标准库 sync 包的 WaitGroup 怎么使用？](https://mp.weixin.qq.com/s/6A9Lx99qkVx_sX_gIQxLYw)
 10. [Golang 语言标准库 sync 包的 Cond 怎么使用？](https://mp.weixin.qq.com/s/OcLrO-oINk2j2w9sEJvkPw)
-11. [Golang 语言标准库 sync 包的 Once 怎么使用？]()
+11. [Golang 语言标准库 sync 包的 Once 怎么使用？](https://mp.weixin.qq.com/s/gOvi0KuimvXvHQ8Iy-hZlA)
 13. Go 语言 goroutine调度器 GPM 模型
 14. Golang 语言操作 kafka
 15. Go 使用标准库 os 包操作文件
