@@ -10,13 +10,13 @@
 9. [Golang 语言标准库 sync 包的 WaitGroup 怎么使用？](https://mp.weixin.qq.com/s/6A9Lx99qkVx_sX_gIQxLYw)
 10. [Golang 语言标准库 sync 包的 Cond 怎么使用？](https://mp.weixin.qq.com/s/OcLrO-oINk2j2w9sEJvkPw)
 11. [Golang 语言标准库 sync 包的 Once 怎么使用？](https://mp.weixin.qq.com/s/gOvi0KuimvXvHQ8Iy-hZlA)
-13. Go 语言 goroutine调度器 GPM 模型
-14. Golang 语言操作 kafka
-15. Go 使用标准库 os 包操作文件
-16. Go 使用标准库 io 包读写、拷贝和断点续传文件
-17. Go 使用标准库 ioutil 包读写文件和操作文件夹
-18. Go 使用标准库 bufio 包在缓冲区读写文件
-19. Go 使用标准库 time 包
-20. Go 使用标准库 bytes 包
-21. Go 使用标准库 math 包
-22. Go 使用标准库 sort 包
+12. Go 使用标准库 os 包操作文件
+13. Go 使用标准库 io 包读写、拷贝和断点续传文件
+14. Go 使用标准库 ioutil 包读写文件和操作文件夹
+15. Go 使用标准库 bufio 包在缓冲区读写文件
+16. Go 使用标准库 time 包
+17. Go 使用标准库 bytes 包
+18. Go 使用标准库 math 包
+19. Go 使用标准库 sort 包
+20. Go 语言 goroutine调度器 GPM 模型
+21. Golang 语言操作 kafka
