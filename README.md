@@ -11,6 +11,7 @@
 10. [Golang 语言标准库 sync 包的 Cond 怎么使用？](https://mp.weixin.qq.com/s/OcLrO-oINk2j2w9sEJvkPw)
 11. [Golang 语言标准库 sync 包的 Once 怎么使用？](https://mp.weixin.qq.com/s/gOvi0KuimvXvHQ8Iy-hZlA)
 12. [Golang 语言使用标准库 net/rpc/jsonrpc 包跨语言远程调用](https://mp.weixin.qq.com/s/Zhg5FBgB6XPC37kA0GcgKg)
+13. [Golang 语言标准库 sync/atomic 包原子操作](https://mp.weixin.qq.com/s/RkvCsRJQFnBhR7D_Tkh1oQ)
 13. Go 使用标准库 os 包操作文件
 14. Go 使用标准库 io 包读写、拷贝和断点续传文件
 15. Go 使用标准库 ioutil 包读写文件和操作文件夹
