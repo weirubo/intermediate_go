@@ -13,6 +13,7 @@
 12. [Golang 语言使用标准库 net/rpc/jsonrpc 包跨语言远程调用](https://mp.weixin.qq.com/s/Zhg5FBgB6XPC37kA0GcgKg)
 13. [Golang 语言标准库 sync/atomic 包原子操作](https://mp.weixin.qq.com/s/RkvCsRJQFnBhR7D_Tkh1oQ)
 14. [Golang 语言标准库 context 包控制 goroutine](https://mp.weixin.qq.com/s/ynj97tpP32vJ4AeHEQHtJQ)
+15. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
 13. Go 使用标准库 os 包操作文件
 14. Go 使用标准库 io 包读写、拷贝和断点续传文件
 15. Go 使用标准库 ioutil 包读写文件和操作文件夹
