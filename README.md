@@ -1,5 +1,5 @@
 # Go 进阶
-1. [Go 使用标准库 json 包解码 JSON](https://mp.weixin.qq.com/s/OyPlXss8L6zSb0HGIyDBrw)
+1. [Go 使用标准库 json 包解码 JSON](https://mp.weixin.qq.com/s/OyPlXss8L6zSb0HGIydbrw)
 2. [Go 使用标准库 strconv 包和 string 包操作字符串](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
 3. [Go 使用标准库 sql 包和三方数据库驱动包操作 MySQL](https://mp.weixin.qq.com/s/JEWaU7DTkNllxK28BKvFUA)
 4. [Go 使用三方 redis 包操作 Redis](https://mp.weixin.qq.com/s/7WtGQ2czx22GsCABZPGcHw)
@@ -14,7 +14,7 @@
 13. [Golang 语言标准库 sync/atomic 包原子操作](https://mp.weixin.qq.com/s/RkvCsRJQFnBhR7D_Tkh1oQ)
 14. [Golang 语言标准库 context 包控制 goroutine](https://mp.weixin.qq.com/s/ynj97tpP32vJ4AeHEQHtJQ)
 15. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
-16. Golang 语言配置管理 viper 怎么使用？
+16. Golang 语言怎么使用 iper 管理配置信息？
 17. Golang 语言日志组件 lumberjack 怎么使用？
 18. Golang 接口文档生成工具 Swagger 怎么使用？
 19. Golang 接口校验库 validator 怎么使用？
