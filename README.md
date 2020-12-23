@@ -14,7 +14,7 @@
 13. [Golang 语言标准库 sync/atomic 包原子操作](https://mp.weixin.qq.com/s/RkvCsRJQFnBhR7D_Tkh1oQ)
 14. [Golang 语言标准库 context 包控制 goroutine](https://mp.weixin.qq.com/s/ynj97tpP32vJ4AeHEQHtJQ)
 15. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
-16. Golang 语言怎么使用 Viper 管理配置信息？
+16. [Golang 语言怎么使用 Viper 管理配置信息？](https://mp.weixin.qq.com/s/zLFnhk4kJ1sefXTpThnlHQ)
 17. Golang 语言日志组件 lumberjack 怎么使用？
 18. Golang 接口文档生成工具 Swagger 怎么使用？
 19. Golang 接口校验库 validator 怎么使用？
