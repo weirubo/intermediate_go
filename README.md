@@ -17,7 +17,7 @@
 16. [Golang 语言怎么使用 Viper 管理配置信息？](https://mp.weixin.qq.com/s/zLFnhk4kJ1sefXTpThnlHQ)
 17. Golang 语言日志组件 lumberjack 怎么使用？
 18. Golang 接口文档生成工具 Swagger 怎么使用？
-19. Golang 接口校验库 validator 怎么使用？
+19. [Golang 语言的值验证库 Validator 怎么使用？](https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg)
 20. Golang 怎么使用 JWT 控制接口访问权限？
 21. Golang 怎么使用 gomail 实现邮件报警功能？
 22. Golang 怎么使用 ratelimit 实现接口限流？
