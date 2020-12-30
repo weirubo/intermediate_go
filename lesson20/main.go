@@ -9,7 +9,7 @@ import (
 
 // jwt-go
 
-type Claims struct {
+type MyCustomClaims struct {
 	ID       int64
 	Username string
 	jwt.StandardClaims
@@ -37,7 +37,7 @@ func GenerateToken() (string, error) {
 	nowTime := time.Now()
 	expireTime := nowTime.Add(300 * time.Second)
 	issuer := "frank"
-	claims := Claims{
+	claims := MyCustomClaims{
 		ID:       10001,
 		Username: "frank",
 		StandardClaims: jwt.StandardClaims{
@@ -50,8 +50,8 @@ func GenerateToken() (string, error) {
 	return token, err
 }
 
-func ParseToken(token string) (*Claims, error) {
-	tokenClaims, err := jwt.ParseWithClaims(token, &Claims{}, func(token *jwt.Token) (interface{}, error) {
+func ParseToken(token string) (*MyCustomClaims, error) {
+	tokenClaims, err := jwt.ParseWithClaims(token, &MyCustomClaims{}, func(token *jwt.Token) (interface{}, error) {
 		return []byte(secret), nil
 	})
 	if err != nil {
@@ -59,7 +59,7 @@ func ParseToken(token string) (*Claims, error) {
 	}
 
 	if tokenClaims != nil {
-		if claims, ok := tokenClaims.Claims.(*Claims); ok && tokenClaims.Valid {
+		if claims, ok := tokenClaims.Claims.(*MyCustomClaims); ok && tokenClaims.Valid {
 			return claims, nil
 		}
 	}
