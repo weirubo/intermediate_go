@@ -20,7 +20,7 @@
 19. [Golang 语言的值验证库 Validator 怎么使用？](https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg)
 20. [Golang语言使用 jwt-go 库生成和解析 token](https://mp.weixin.qq.com/s/SLuQ6oIaA4tEm7nbdbvDPg)
 21. [Golang 语言怎么使用 gomail 库发送邮件？](https://mp.weixin.qq.com/s/is2PnBNwjgrk_p-2hxNAzw)
-22. Golang 怎么使用 ratelimit 实现接口限流？
+22. Golang 怎么实现接口限流？
 23. Golang 链路追踪系统 Jaeger 怎么使用？
 24. Golang 怎么使用 fsnotify 实现配置热更新？
 25. Go 使用标准库 os 包操作文件
