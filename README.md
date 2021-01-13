@@ -27,8 +27,8 @@
 26. Golang 语言怎么操作 elasticsearch？
 27. Golang 语言怎么操作 etcd？
 28. Golang 语言怎么操作 memcached？
-29. Go 使用标准库 strings 包
-30. Go 使用标准库 time 包
+29. [Go 使用标准库 strings 包](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
+30. [Go 使用标准库 time 包](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
 31. Go 使用标准库 math 包
 32. Go 使用标准库 sort 包
 33. Go 使用标准库 flag 包
