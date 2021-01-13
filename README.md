@@ -1,6 +1,6 @@
 # Go 进阶
 1. [Go 使用标准库 json 包解码 JSON](https://mp.weixin.qq.com/s/OyPlXss8L6zSb0HGIydbrw)
-2. [Go 使用标准库 strconv 包和 string 包操作字符串](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
+2. [Go 使用标准库 strconv 包](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
 3. [Go 使用标准库 sql 包和三方数据库驱动包操作 MySQL](https://mp.weixin.qq.com/s/JEWaU7DTkNllxK28BKvFUA)
 4. [Go 使用三方 redis 包操作 Redis](https://mp.weixin.qq.com/s/7WtGQ2czx22GsCABZPGcHw)
 5. [Go 使用标准库 net/http 包构建服务器](https://mp.weixin.qq.com/s/gsv3zW0HQaGMSxH9CtjiFA)
@@ -23,12 +23,18 @@
 22. [Golang 语言怎么实现访问流量限流?](https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA)
 23. Golang 链路追踪系统 Jaeger 怎么使用？
 24. Golang 怎么使用 fsnotify 实现配置热更新？
-25. Go 使用标准库 os 包操作文件
-26. Go 使用标准库 io 包读写、拷贝和断点续传文件
-27. Go 使用标准库 ioutil 包读写文件和操作文件夹
-28. Go 使用标准库 bufio 包在缓冲区读写文件
-29. Go 使用标准库 time 包
-30. Go 使用标准库 bytes 包
+25. Golang 语言怎么操作 kafka？
+26. Golang 语言怎么操作 elasticsearch？
+27. Golang 语言怎么操作 etcd？
+28. Golang 语言怎么操作 memcached？
+29. Go 使用标准库 strings 包
+30. Go 使用标准库 time 包
 31. Go 使用标准库 math 包
 32. Go 使用标准库 sort 包
-33. Golang 语言操作 kafka
+33. Go 使用标准库 flag 包
+34. Go 使用标准库 runtime 包
+35. Go 使用标准库 os 包操作文件
+36. Go 使用标准库 io 包读写、拷贝和断点续传文件
+37. Go 使用标准库 ioutil 包读写文件和操作文件夹
+38. Go 使用标准库 bufio 包在缓冲区读写文件
+39. Go 使用标准库 bytes 包
