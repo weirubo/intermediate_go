@@ -30,11 +30,11 @@
 29. [Go 使用标准库 strings 包](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
 30. [Go 使用标准库 time 包](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
 31. Go 使用标准库 bytes 包
-32. Go 使用标准库 io 包读写、拷贝和断点续传文件
-33. Go 使用标准库 bufio 包在缓冲区读写文件
-34. Go 使用标准库 ioutil 包读写文件和操作文件夹
-35. Go 使用标准库 runtime 包
-36. Go 使用标准库 os 包操作文件
+32. Go 使用标准库 os 包操作文件
+33. Go 使用标准库 io 包读写、拷贝和断点续传文件
+34. Go 使用标准库 bufio 包在缓冲区读写文件
+35. Go 使用标准库 ioutil 包读写文件和操作文件夹
+36. Go 使用标准库 runtime 包
 37. Go 使用标准库 math 包
 38. Go 使用标准库 sort 包
 39. Go 使用标准库 flag 包
