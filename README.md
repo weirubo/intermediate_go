@@ -39,4 +39,4 @@
 38. Go 使用标准库 sort 包
 39. Go 使用标准库 flag 包
 40. Go 使用标准库 fmt 包
-41. Go 使用标准库 log 包
+41. [Go 使用标准库 log 包](https://mp.weixin.qq.com/s/_R-xcuyHOc_iCx2Bd_pA5w)
