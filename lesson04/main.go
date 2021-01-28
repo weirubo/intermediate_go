@@ -56,7 +56,7 @@ func main() {
 	_ = zh_translations.RegisterDefaultTranslations(validate, trans)
 	user := &User{
 		ID:     1,
-		Name:   "frank",
+		Name:   "lucy",
 		Gender: "boy",
 		Age:    180,
 		Email:  "gopher@88.com",
