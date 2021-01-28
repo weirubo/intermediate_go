@@ -16,17 +16,17 @@
 15. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
 16. [Golang 语言怎么使用 Viper 管理配置信息？](https://mp.weixin.qq.com/s/zLFnhk4kJ1sefXTpThnlHQ)
 17. Golang 语言日志切割库 lumberjack 怎么使用？
-18. Golang 接口文档生成工具 Swagger 怎么使用？
+18. Golang 怎么使用 fsnotify 实现配置热更新？
 19. [Golang 语言的值验证库 Validator 怎么使用？](https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg)
 20. [Golang语言使用 jwt-go 库生成和解析 token](https://mp.weixin.qq.com/s/SLuQ6oIaA4tEm7nbdbvDPg)
 21. [Golang 语言怎么使用 gomail 库发送邮件？](https://mp.weixin.qq.com/s/is2PnBNwjgrk_p-2hxNAzw)
 22. [Golang 语言怎么实现访问流量限流?](https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA)
 23. Golang 链路追踪系统 Jaeger 怎么使用？
-24. Golang 怎么使用 fsnotify 实现配置热更新？
-25. Golang 语言怎么操作 kafka？
+24. Golang 语言怎么操作 memcached？
+25. Golang 语言怎么操作 mongodb？
 26. Golang 语言怎么操作 elasticsearch？
-27. Golang 语言怎么操作 etcd？
-28. Golang 语言怎么操作 memcached？
+27. Golang 语言怎么操作 kafka？
+28. Golang 语言怎么操作 etcd？
 29. [Go 使用标准库 strings 包](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
 30. [Go 使用标准库 time 包](https://mp.weixin.qq.com/s/ZULa_S-jSOMHS0-SiFqz4A)
 31. Go 使用标准库 bytes 包
