@@ -1,5 +1,5 @@
 # Go 进阶
-### [Golang 标准库](https://github.com/weirubo/go-package)
+### [传送门：Golang 标准库](https://github.com/weirubo/go-package)
 1. [Go 使用三方 redis 包操作 Redis](https://mp.weixin.qq.com/s/7WtGQ2czx22GsCABZPGcHw)
 2. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
 3. [Golang 语言怎么使用 Viper 管理配置信息？](https://mp.weixin.qq.com/s/zLFnhk4kJ1sefXTpThnlHQ)
