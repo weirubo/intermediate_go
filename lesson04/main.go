@@ -1,87 +1,72 @@
 package main
 
-// go-redis 包
 import (
-	"context"
 	"fmt"
-	"github.com/go-redis/redis/v8"
-	"time"
+	"reflect"
+	"strings"
+
+	"github.com/go-playground/locales/zh"
+	ut "github.com/go-playground/universal-translator"
+	"github.com/go-playground/validator/v10"
+	zh_translations "github.com/go-playground/validator/v10/translations/zh"
 )
 
-var redisClient *redis.Client
-var ctx = context.Background()
-
-func InitRedis() {
-	redisClient = redis.NewClient(&redis.Options{
-		Addr: "127.0.0.1:6379",
-		DB:   0,
-	})
-	pong, err := redisClient.Ping(ctx).Result()
-	if err != nil {
-		fmt.Printf("redis 错误信息：%v\n", err)
-		return
-	}
-	fmt.Println(pong)
+// user info
+type User struct {
+	ID     int64  `json:"id" validate:"gt=0"`
+	Name   string `json:"name" validate:"required"`
+	Gender string `json:"gender" validate:"required,oneof=man woman"`
+	Age    uint8  `json:"age" validate:"required,gte=0,lte=130"`
+	Email  string `json:"email" validate:"required,email"`
 }
 
-func InitRedis2() {
-	options, err := redis.ParseURL("redis://127.0.0.1:6379/0")
-	if err != nil {
-		fmt.Printf("redis 错误信息:%v\n", err)
-		return
-	}
-	redisClient = redis.NewClient(options)
-	pong, err := redisClient.Ping(ctx).Result()
-	if err != nil {
-		fmt.Printf("redis 错误信息：%v\n", err)
-		return
-	}
-	fmt.Println(pong)
-}
+var (
+	validate *validator.Validate
+	uni      *ut.UniversalTranslator
+)
+
 func main() {
-	InitRedis()
-	// InitRedis2()
-	/*val, err := Set("price", 99, time.Second*300)
+	validate = validator.New()
+
+	// 验证变量
+	email := ""
+	err := validate.Var(email, "required,email")
 	if err != nil {
-		fmt.Println(err)
+		validationErrors := err.(validator.ValidationErrors)
+		fmt.Println(validationErrors)
+		// output: Key: '' Error:Field validation for '' failed on the 'email' tag
+		// output: Key: '' Error:Field validation for '' failed on the 'required' tag
 		return
 	}
-	fmt.Println(val)*/
 
-	val, err := Get("price")
+	// 验证结构体
+	// 注册一个函数，获取结构字段的备用名称。
+	validate.RegisterTagNameFunc(func(fld reflect.StructField) string {
+		name := strings.SplitN(fld.Tag.Get("json"), ",", 2)[0]
+		if name == "-" {
+			return "j"
+		}
+		return name
+	})
+
+	// 翻译为中文
+	zh := zh.New()
+	uni = ut.New(zh)
+	trans, _ := uni.GetTranslator("zh")
+	_ = zh_translations.RegisterDefaultTranslations(validate, trans)
+	user := &User{
+		ID:     1,
+		Name:   "frank",
+		Gender: "boy",
+		Age:    180,
+		Email:  "gopher@88.com",
+	}
+	err = validate.Struct(user)
 	if err != nil {
-		fmt.Println(err)
+		validationErrors := err.(validator.ValidationErrors)
+		// output: Key: 'User.Age' Error:Field validation for 'Age' failed on the 'lte' tag
+		// fmt.Println(validationErrors)
+		fmt.Println(validationErrors.Translate(trans))
 		return
 	}
-	fmt.Println(val)
 }
-
-// Command
-// Key
-
-// String
-// set
-func Set(key string, value interface{}, expiration time.Duration) (val string, err error) {
-	val, err = redisClient.Set(ctx, key, value, expiration).Result()
-	if err != nil {
-		return "", err
-	}
-	return val, nil
-}
-
-// get
-func Get(key string) (string, error) {
-	val, err := redisClient.Get(ctx, key).Result()
-	if err != nil {
-		return "", err
-	}
-	return val, nil
-}
-
-// List
-
-// Hash
-
-// Set
-
-// ZSet
