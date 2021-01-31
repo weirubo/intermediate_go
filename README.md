@@ -1,6 +1,6 @@
 # Go 进阶
 ### 归档：
-为了方便阅读，进行了归档。
+为了方便阅读，对该仓库中的原目录进行了归档。
 * [Golang 并发](https://github.com/weirubo/go-concurrent)
 * [Golang 标准库](https://github.com/weirubo/go-package)
 * [Golang 三方库](https://github.com/weirubo/go-third-packge)
