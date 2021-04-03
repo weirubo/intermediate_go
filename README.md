@@ -1,9 +1,9 @@
 # Go 进阶
 ### 归档：
 为了方便阅读，对该仓库中的原目录进行了归档。
-* [Golang 并发系列文章](https://github.com/weirubo/go-concurrent)
-* [Golang 标准库系列文章](https://github.com/weirubo/go-package)
-* [Golang 三方库系列文章](https://github.com/weirubo/go-third-packge)
+* [Golang 并发 - 系列文章](https://github.com/weirubo/go-concurrent)
+* [Golang 标准库 - 系列文章](https://github.com/weirubo/go-package)
+* [Golang 三方库 - 系列文章](https://github.com/weirubo/go-third-packge)
 * [Golang 高级](https://github.com/weirubo/advanced_go/tree/master)
   1. [Golang 语言的内存模型](https://mp.weixin.qq.com/s/X4BDr_ANxiFT5MPdcL1Bhg)
   2. [Golang 语言的内存管理](https://mp.weixin.qq.com/s/eGBDOfKuNdYI6S2Q6klGQw)
