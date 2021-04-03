@@ -16,3 +16,4 @@
 2. [Golang 语言中的非类型安全指针](https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ)
 3. [Golang 语言的编程技巧之变量](https://mp.weixin.qq.com/s/vlWkkyfcg-X5OHzf05gjTg)
 4. [Golang 语言的编程技巧之类型](https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw)
+5. [Golang 语言中数组和切片的区别是什么？](https://mp.weixin.qq.com/s/WuC4jlJv_t5QaniWNXn8uQ)
