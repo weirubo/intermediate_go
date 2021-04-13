@@ -18,3 +18,4 @@
 4. [Golang 语言的编程技巧之类型](https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw)
 5. [Golang 语言中数组和切片的区别是什么？](https://mp.weixin.qq.com/s/WuC4jlJv_t5QaniWNXn8uQ)
 6. [Golang 语言怎么高效使用字符串？](https://mp.weixin.qq.com/s/Na5hQiuggifsHOEnw-2oXA)
+7. [Golang 语言中的内置函数 make 和 new](https://mp.weixin.qq.com/s/cGWZN_2uKRyDaI75VoGEfw)
