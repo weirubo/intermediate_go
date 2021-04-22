@@ -19,3 +19,5 @@
 5. [Golang 语言中数组和切片的区别是什么？](https://mp.weixin.qq.com/s/WuC4jlJv_t5QaniWNXn8uQ)
 6. [Golang 语言怎么高效使用字符串？](https://mp.weixin.qq.com/s/Na5hQiuggifsHOEnw-2oXA)
 7. [Golang 语言中的内置函数 make 和 new](https://mp.weixin.qq.com/s/cGWZN_2uKRyDaI75VoGEfw)
+8. [Golang 语言中基础同步原语 Mutex 和 RWMutex 的区别](https://mp.weixin.qq.com/s/nU-WFszIP1Sk1rC4q5cI1A)
+9. [Golang 语言中 Channel 的使用方式](https://mp.weixin.qq.com/s/vXt0gqnxPK1qbChzZxV94A)
