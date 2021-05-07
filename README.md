@@ -22,3 +22,4 @@
 8. [Golang 语言中基础同步原语 Mutex 和 RWMutex 的区别](https://mp.weixin.qq.com/s/nU-WFszIP1Sk1rC4q5cI1A)
 9. [Golang 语言中 Channel 的使用方式](https://mp.weixin.qq.com/s/vXt0gqnxPK1qbChzZxV94A)
 10. [Golang 语言中 Context 的使用方式](https://mp.weixin.qq.com/s/EPOTaC77oVGUa3glNYttdQ)
+11. [Golang 语言中 kafka 客户端库 sarama](https://mp.weixin.qq.com/s/T3dWcf5v1cWMdNbsK3_w2A)
