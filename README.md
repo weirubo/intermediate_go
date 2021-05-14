@@ -23,3 +23,4 @@
 9. [Golang 语言中 Channel 的使用方式](https://mp.weixin.qq.com/s/vXt0gqnxPK1qbChzZxV94A)
 10. [Golang 语言中 Context 的使用方式](https://mp.weixin.qq.com/s/EPOTaC77oVGUa3glNYttdQ)
 11. [Golang 语言中 kafka 客户端库 sarama](https://mp.weixin.qq.com/s/T3dWcf5v1cWMdNbsK3_w2A)
+12. [Golang 语言中怎么拦截系统信号和优雅退出 http server？](https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w)
