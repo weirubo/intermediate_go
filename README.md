@@ -12,17 +12,17 @@
   4. [Golang 语言的垃圾回收算法](https://mp.weixin.qq.com/s/gkBg742lpBVRBhTPhOQ7hg)
   
 ***
-### 目录：
+### Go 进阶目录：
 1. [Golang 语言中的指针介绍](https://mp.weixin.qq.com/s/-Z11P_qCrOJqXNXZ6hIXyg)
 2. [Golang 语言中的非类型安全指针](https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ)
 3. [Golang 语言的编程技巧之变量](https://mp.weixin.qq.com/s/vlWkkyfcg-X5OHzf05gjTg)
 4. [Golang 语言的编程技巧之类型](https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw)
 5. [Golang 语言中数组和切片的区别是什么？](https://mp.weixin.qq.com/s/WuC4jlJv_t5QaniWNXn8uQ)
-6. [Golang 语言怎么高效使用字符串？](https://mp.weixin.qq.com/s/Na5hQiuggifsHOEnw-2oXA)
+6. [Golang 语言中怎么高效使用字符串？](https://mp.weixin.qq.com/s/Na5hQiuggifsHOEnw-2oXA)
 7. [Golang 语言中的内置函数 make 和 new](https://mp.weixin.qq.com/s/cGWZN_2uKRyDaI75VoGEfw)
 8. [Golang 语言中基础同步原语 Mutex 和 RWMutex 的区别](https://mp.weixin.qq.com/s/nU-WFszIP1Sk1rC4q5cI1A)
 9. [Golang 语言中 Channel 的使用方式](https://mp.weixin.qq.com/s/vXt0gqnxPK1qbChzZxV94A)
 10. [Golang 语言中 Context 的使用方式](https://mp.weixin.qq.com/s/EPOTaC77oVGUa3glNYttdQ)
 11. [Golang 语言中 kafka 客户端库 sarama](https://mp.weixin.qq.com/s/T3dWcf5v1cWMdNbsK3_w2A)
 12. [Golang 语言中怎么拦截系统信号和优雅退出 http server？](https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w)
-13. [Golang 语言怎么使用接口编程？](https://mp.weixin.qq.com/s/YunhA72jyar9g0sFZ6rg8A)
+13. [Golang 语言中怎么使用接口编程？](https://mp.weixin.qq.com/s/YunhA72jyar9g0sFZ6rg8A)
