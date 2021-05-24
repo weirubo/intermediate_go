@@ -26,3 +26,4 @@
 11. [Golang 语言中 kafka 客户端库 sarama](https://mp.weixin.qq.com/s/T3dWcf5v1cWMdNbsK3_w2A)
 12. [Golang 语言中怎么拦截系统信号和优雅退出 http server？](https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w)
 13. [Golang 语言中怎么使用接口编程？](https://mp.weixin.qq.com/s/YunhA72jyar9g0sFZ6rg8A)
+14. [Golang 语言怎么使用 net/http 标准库开发 http 应用？](https://mp.weixin.qq.com/s/-HBxzpFZNqqTQb8HIsMW4w)
