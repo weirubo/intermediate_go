@@ -11,6 +11,11 @@
   3. [Golang 语言的 goroutine 调度器模型 GPM](https://mp.weixin.qq.com/s/DZVn-5n-yB-swE0J4CjcbQ)
   4. [Golang 语言的垃圾回收算法](https://mp.weixin.qq.com/s/gkBg742lpBVRBhTPhOQ7hg)
   
+### Golang 算法题：
+1. [给定一组整数，其中有两个整数重复，找出重复的整数](https://play.golang.org/p/TxOITyB4QNH)
+2. [给定一个整数数组和一个整数，找出数组中两数之和等于给定整数的两个整数](https://play.golang.org/p/E47aI_yt7qO)
+
+
 ***
 ### Golang 进阶目录：
 1. [Golang 语言中的指针介绍](https://mp.weixin.qq.com/s/-Z11P_qCrOJqXNXZ6hIXyg)
