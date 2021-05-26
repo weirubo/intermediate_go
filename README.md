@@ -14,7 +14,7 @@
 ### Golang 算法题：
 1. [给定一组整数，其中有两个整数重复，找出重复的整数](https://play.golang.org/p/TxOITyB4QNH)
 2. [给定一个整数数组和一个整数，找出数组中两数之和等于给定整数的两个整数](https://play.golang.org/p/E47aI_yt7qO)
-
+3. [删除有序数组中的重复项，返回删除后数组的新长度和新数组](https://play.golang.org/p/f5zxE5ydUC3)
 
 ***
 ### Golang 进阶目录：
