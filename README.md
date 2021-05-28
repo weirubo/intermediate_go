@@ -15,6 +15,7 @@
 1. [给定一组整数，其中有两个整数重复，找出重复的整数](https://play.golang.org/p/TxOITyB4QNH)
 2. [给定一个整数数组和一个整数，找出数组中两数之和等于给定整数的两个整数](https://play.golang.org/p/E47aI_yt7qO)
 3. [删除有序数组中的重复项，返回删除后数组的新长度和新数组](https://play.golang.org/p/f5zxE5ydUC3)
+4. [给定一个整数数组和一个整数，将数组中和给定整数相等的元素移除，返回移除元素后的新数组的新长度和新数组，不需要考虑新数组中超出新长度后面的元素，新长度个元素可为任意顺序](https://play.golang.org/p/Nk3w6HAMspB)
 
 ***
 ### Golang 进阶目录：
@@ -32,3 +33,4 @@
 12. [Golang 语言中怎么拦截系统信号和优雅退出 http server？](https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w)
 13. [Golang 语言中怎么使用接口编程？](https://mp.weixin.qq.com/s/YunhA72jyar9g0sFZ6rg8A)
 14. [Golang 语言怎么使用 net/http 标准库开发 http 应用？](https://mp.weixin.qq.com/s/-HBxzpFZNqqTQb8HIsMW4w)
+15. [Golang 语言是面向对象编程风格的编程语言吗？](https://mp.weixin.qq.com/s/yqJPrPP1czre59IWrk14Bw)
