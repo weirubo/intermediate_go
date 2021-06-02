@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // 值类型和指针类型
 
@@ -48,7 +50,7 @@ func main() {
 
 	user2 := &User{}
 	fmt.Printf("user2 pointer:%p\n", user2) // user2 pointer:0xc000010290
-	user2.SetNamePointerType("tom")         // SetNameValueType() pointer:0xc0000102a0
+	user2.SetNameValueType("tom")           // SetNameValueType() pointer:0xc0000102a0
 
 	user3 := &User{}
 	fmt.Printf("user3 pointer:%p\n", user3) // user3 pointer:0xc0000102b0
