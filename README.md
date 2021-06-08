@@ -31,5 +31,6 @@
 14. [Golang 语言怎么使用 net/http 标准库开发 http 应用？](https://mp.weixin.qq.com/s/-HBxzpFZNqqTQb8HIsMW4w)
 15. [Golang 语言是面向对象编程风格的编程语言吗？](https://mp.weixin.qq.com/s/yqJPrPP1czre59IWrk14Bw)
 16. [Golang 语言 method 接收者使用值类型和指针类型的区别](https://mp.weixin.qq.com/s/OOCiJlCOKe6EE98nydBExw)
+17. [Golang 语言中的 defer 怎么使用？](https://mp.weixin.qq.com/s/_5Vvop0vKIHZwbxJjfX4AA)
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
