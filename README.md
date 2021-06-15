@@ -33,6 +33,7 @@
 16. [Golang 语言 method 接收者使用值类型和指针类型的区别](https://mp.weixin.qq.com/s/OOCiJlCOKe6EE98nydBExw)
 17. [Golang 语言中的 defer 怎么使用？](https://mp.weixin.qq.com/s/_5Vvop0vKIHZwbxJjfX4AA)
 18. [Golang 语言怎么安装多个 Golang 版本的环境？](https://mp.weixin.qq.com/s/D0yBXc5kXI9o69VmM8w5bw)
+19. [Golang 语言中怎么解码 4 种常见JSON 格式数据？](https://mp.weixin.qq.com/s/5bgNAeel3fz8Jao7N_KrBg)
 
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
