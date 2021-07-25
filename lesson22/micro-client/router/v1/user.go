@@ -40,7 +40,7 @@ func NewUserClient() protoUser.UserService {
 	service := grpc.NewService()
 
 	// 创建客户端
-	userClient := protoUser.NewUserService("go.micro.service.server", service.Client())
+	userClient := protoUser.NewUserService("go.micro.srv.demo", service.Client())
 
 	return userClient
 }
