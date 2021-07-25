@@ -17,9 +17,10 @@ type User struct {
 
 func (u *User) Login(ctx *gin.Context) {
 	param := new(User)
-	err := ctx.ShouldBind(&param)
+	err := ctx.ShouldBind(param)
 	if err != nil {
 		log.Debug(err)
+		return
 	}
 
 	client := NewUserClient()
@@ -28,6 +29,7 @@ func (u *User) Login(ctx *gin.Context) {
 	resp, err := client.Login(context.TODO(), &protoUser.LoginRequest{Email: param.Email, Password: param.Password})
 	if err != nil {
 		fmt.Println(err)
+		return
 	}
 	ctx.JSON(http.StatusOK, gin.H{
 		"data": resp.Username,
