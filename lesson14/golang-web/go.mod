@@ -1,1 +1,3 @@
-module "golang-web"
+module golang-web
+
+go 1.13

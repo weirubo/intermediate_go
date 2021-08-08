@@ -1,1 +1,3 @@
-module "golang-web5"
+module golang-web5
+
+go 1.13
