@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+// protoc --proto_path=. --micro_out=. --go_out=. user.proto
+
+package user;
+
+service User {
+  rpc Login(LoginRequest) returns (LoginResponse) {}
+}
+
+message LoginRequest {
+  string email = 1;
+  string password = 2;
+}
+
+message LoginResponse {
+  string username = 1;
+}
