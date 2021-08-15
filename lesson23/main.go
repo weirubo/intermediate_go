@@ -55,6 +55,7 @@ func stringExists(conn redis.Conn) {
 	if err != nil {
 		fmt.Println("EXITS error: ", err)
 	}
+
 	fmt.Println(replyExists)
 }
 
