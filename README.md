@@ -41,6 +41,7 @@
 24. [Golang 语言怎么使用 go-micro 和 gin 开发微服务？](https://mp.weixin.qq.com/s/xCFsKMHSlBG4ao1FM98n2w)
 25. [Golang 官方推荐使用的 Redis 客户端 redigo](https://mp.weixin.qq.com/s/pY8Z9tXm2sZ4FYR1063zpQ)
 26. [Golang 语言中怎么提升 JSON 编解码的性能？](https://mp.weixin.qq.com/s/wkqk1cgYKWnbIsHqoTA5UA)
+27. [Golang 语言怎么高效读写 JSON 字符串？](https://mp.weixin.qq.com/s/dRq_PE3uPF5Aa7xEEhV0Jw)
 
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
