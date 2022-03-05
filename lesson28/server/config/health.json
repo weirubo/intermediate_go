@@ -1,0 +1,13 @@
+{
+  "ID": "user",
+  "Name": "user",
+  "Tags": [
+    "health"
+  ],
+  "Address": "localhost",
+  "Port": 8080,
+  "Check": {
+    "HTTP": "http://localhost:8080/health",
+    "Interval": "5s"
+  }
+}
