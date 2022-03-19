@@ -43,6 +43,7 @@
 26. [Golang 语言中怎么提升 JSON 编解码的性能？](https://mp.weixin.qq.com/s/wkqk1cgYKWnbIsHqoTA5UA)
 27. [Golang 语言怎么高效读写 JSON 字符串？](https://mp.weixin.qq.com/s/dRq_PE3uPF5Aa7xEEhV0Jw)
 28. [Golang 微服务工具包 Go kit](https://mp.weixin.qq.com/s/ifT3k_Q9ucVBfyTdW1B3Zg)
+29. [Go 语言基于 Go kit 开发 Web 项目](https://mp.weixin.qq.com/s/uCiIIHCt8COMV6z2FXiS6A)
 
 ***
 ![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
