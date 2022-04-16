@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  webapp:
+    restart: always # Docker 重启时，容器也重启
+    build: # 构建 Docker 镜像
+      context: ./ # Dockerfile 文件的目录
+      dockerfile: Dockerfile # Dockerfile 文件的名称
+    image: hello:1.0.0 # 镜像名称和版本号
+    container_name: hello # 容器名称
+    ports: # 宿主机和容器之间映射端口
+      - "9090:8080"
