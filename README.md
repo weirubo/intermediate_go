@@ -49,4 +49,4 @@
 32. [Go 语言整洁架构实践](https://mp.weixin.qq.com/s/7uwuHeKjQNACl17-PYrpUw)
 
 ***
-![Golang 语言开发栈](https://camo.githubusercontent.com/1a2e836a41314763282d267de5f4bb4fa98748dbfd163e0492c06a7ba66fc134/68747470733a2f2f636e73776966742e636e2f696d616765732f7172636f64652e706e67)
+![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
