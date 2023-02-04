@@ -47,6 +47,7 @@
 30. [Go 微服务工具包 Go kit 怎么集成 gRPC？](https://mp.weixin.qq.com/s/GNrDzo9-DtGOVfrOPNuZPg)
 31. [Go 语言怎么使用 Docker 部署项目？](https://mp.weixin.qq.com/s/nbyhaomyLII-U9lEB5Cv8w)
 32. [Go 语言整洁架构实践](https://mp.weixin.qq.com/s/7uwuHeKjQNACl17-PYrpUw)
+33. [Go 微服务框架 go-micro 使用客户端 RPC 调用服务端方法返回 408 怎么解决？](https://mp.weixin.qq.com/s/DyqAKm8gsB-8eVzWO2LGFQ)
 
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
