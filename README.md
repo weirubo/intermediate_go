@@ -48,6 +48,7 @@
 31. [Go 语言怎么使用 Docker 部署项目？](https://mp.weixin.qq.com/s/nbyhaomyLII-U9lEB5Cv8w)
 32. [Go 语言整洁架构实践](https://mp.weixin.qq.com/s/7uwuHeKjQNACl17-PYrpUw)
 33. [Go 微服务框架 go-micro 使用客户端 RPC 调用服务端方法返回 408 怎么解决？](https://mp.weixin.qq.com/s/DyqAKm8gsB-8eVzWO2LGFQ)
+34. [Go 语言怎么一键生成一个 gRPC 服务？](https://mp.weixin.qq.com/s/5OYU9OGGRPpR1c06DoEI6g)
 
 ***
 ![Golang 语言开发栈](https://github.com/weirubo/learn_go/blob/master/ebook/qrcode.png)
