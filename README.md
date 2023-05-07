@@ -12,6 +12,7 @@
   4. [Golang 语言的垃圾回收算法](https://mp.weixin.qq.com/s/gkBg742lpBVRBhTPhOQ7hg)
   
 * [Golang 算法题](https://github.com/weirubo/go-algorithm)
+* [Golang 设计模式](https://github.com/weirubo/golang-design-pattern)
   
 ***
 ### Golang 进阶目录：
